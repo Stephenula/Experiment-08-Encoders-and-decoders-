@@ -86,8 +86,8 @@ endmodule
 ```
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:Stephen.U 
+RegisterNumber:212222050058  
 */
 
 
@@ -97,7 +97,11 @@ RegisterNumber:
 
 ### RTL LOGIC  
 
+##ENCODERS
+![image](https://github.com/Stephenula/Experiment-08-Encoders-and-decoders-/assets/130553855/3bef6808-0386-4efa-b278-25b7d2a0c394)
 
+##DECODERS
+![image](https://github.com/Stephenula/Experiment-08-Encoders-and-decoders-/assets/130553855/b12d95bf-8808-4317-abbe-dfd1d72ba269)
 
 
 
@@ -105,6 +109,8 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS  
+![image](https://github.com/Stephenula/Experiment-08-Encoders-and-decoders-/assets/130553855/6d150524-f0ee-4cab-a283-8bf1eb83632e)
+![image](https://github.com/Stephenula/Experiment-08-Encoders-and-decoders-/assets/130553855/aec6d4d3-d365-4059-be49-567690cc0cc6)
 
 
 
